@@ -1,7 +1,7 @@
 ## INSTALL
 
 1. [Install brew](https://brew.sh/)
-2. [Install chocolatey](https://chocolatey.org/) for winodws
+2. [Install chocolatey](https://chocolatey.org/) for windows
 3. [Install node version manager](https://github.com/nvm-sh/nvm/blob/master/README.md)
 
 #### Install node with brew
